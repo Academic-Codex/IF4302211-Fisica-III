@@ -1,0 +1,12 @@
+REPO_TAGLINE: Eletromagnetism • Optics • Fields
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: library
+SITE_URL: https://academic-codex.github.io/IF4302211-Fisica-III
+
+BG_1: "#0F172A"
+BG_2: "#B45309"
+TEXT_MAIN: "#FFFBEB"
+TEXT_MUTED: "#FDE68A"
+ACCENT: "#F59E0B"
+CARD_RADIUS: "18"
